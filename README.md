@@ -1,6 +1,11 @@
 # Nigeria_Lenacapavir_HIV_Treatement-and-Distribution_Analysis_DEMO
 This is a DEMO descriptive data analysis on the distribution and use of the newly introduced HIV treatment drug "LENACAPAVIR". This analysis was personally carried out to determine the demand trends among hospitals across the states and regions of the country with respect to patients request. 
 
+## TABLE OF CONTENTS
+[Project Preview](#Project-Preview)
+
+
+
 ## Project Preview: 
 ### INTRODUTION
 
@@ -24,12 +29,15 @@ Patients records were gathered from all ends of the country with 1000 patients a
  - Microsoft excel
  - YouTube
  - PowerBI
+ - Github
 
 ## Exploratory Data Analysis (EDA)
 
 The processes wasn't a flirt at the tips of my finger as it took lots of patience, critical thinking, continued adjustment and tranformative details to gather the dataset. It took days of determination to clean, assemble and precautive measures to set the dataset in a workable state making it possible for others to use for their practices.
 
 ## Visualizations
+
+This features the details of the distribution trends with respect to the KPIs and categorical determinants within the dataset.
 
 
 <img width="889" height="334" alt="Lenacapavir6" src="https://github.com/user-attachments/assets/113aeea8-93aa-4dcf-a484-ade94af3c13c" />
@@ -45,5 +53,13 @@ The processes wasn't a flirt at the tips of my finger as it took lots of patienc
 
 
 <img width="641" height="299" alt="Lenacapavir2" src="https://github.com/user-attachments/assets/110320ec-094c-41fa-84b7-d5fed4f37e7b" />
+
+
+
+
+
+# AUTHOR
+
+### SOLOMON CHIDERA EZE ::: ezesolomonchidera@gmail.com
 
 
