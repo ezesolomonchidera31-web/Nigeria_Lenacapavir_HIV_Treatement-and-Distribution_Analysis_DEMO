@@ -17,9 +17,9 @@ This is a DEMO descriptive data analysis on the distribution and use of the newl
 
 [AUTHOR](#AUTHOR)
 
+
 ## Project Preview: 
 ### INTRODUTION
----
 
 Lenacapavir treatment distribution analysis was birthed out of personal observation as a health Analyst who had in recent time seen the trends a relieve from Nigerians over the news of a preventive treatment for HIV that has really been a thurn on the societal subconsciousness.
 
@@ -55,10 +55,7 @@ This features the details of the distribution trends with respect to the KPIs an
 <img width="889" height="334" alt="Lenacapavir6" src="https://github.com/user-attachments/assets/113aeea8-93aa-4dcf-a484-ade94af3c13c" />
 
 
-<img width="398" height="305" alt="Lenacapavir3" src="https://github.com/user-attachments/assets/4a66d135-de95-4a41-ac57-a8ba5fc47312" />
-
-
-<img width="389" height="287" alt="Lenacapavir4" src="https://github.com/user-attachments/assets/48806203-02c7-493e-bc15-14fbf25e303b" />
+<img width="398" height="305" alt="Lenacapavir3" src="https://github.com/user-attachments/assets/4a66d135-de95-4a41-ac57-a8ba5fc47312" />        <img width="389" height="287" alt="Lenacapavir4" src="https://github.com/user-attachments/assets/48806203-02c7-493e-bc15-14fbf25e303b" />
 
 
 <img width="604" height="289" alt="Lenacapavir1" src="https://github.com/user-attachments/assets/05483e02-9837-47fd-a01b-81d10d9d0749" />
