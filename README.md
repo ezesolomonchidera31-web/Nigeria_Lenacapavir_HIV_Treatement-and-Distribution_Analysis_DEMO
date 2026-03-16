@@ -1,13 +1,25 @@
-# Nigeria_Lenacapavir_HIV_Treatement-and-Distribution_Analysis_DEMO
+# Nigeria_Lenacapavir_HIV_Treatement-and-Distribution_Analysis_DEM
 This is a DEMO descriptive data analysis on the distribution and use of the newly introduced HIV treatment drug "LENACAPAVIR". This analysis was personally carried out to determine the demand trends among hospitals across the states and regions of the country with respect to patients request. 
 
 ## TABLE OF CONTENTS
+---
 [Project Preview](#Project-Preview)
 
+[Problem Statement](#Problem-Statement)
 
+[Project Objective](#Project-Objective)
+
+[Tools Used](#Tools-Used)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Visualizations](#Visualizations)
+
+[AUTHOR](#AUTHOR)
 
 ## Project Preview: 
 ### INTRODUTION
+---
 
 Lenacapavir treatment distribution analysis was birthed out of personal observation as a health Analyst who had in recent time seen the trends a relieve from Nigerians over the news of a preventive treatment for HIV that has really been a thurn on the societal subconsciousness.
 
